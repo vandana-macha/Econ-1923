@@ -20,6 +20,7 @@
         "tv show" : "The Office"
     },
     "kevin": {
-    "name" : "Kevin Hart"
+    "name" : "Kevin Hart",
+     "author" : false   
     }
 }    
