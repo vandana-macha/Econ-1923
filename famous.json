@@ -1,10 +1,25 @@
-[{
-    "name" : "Dwayne Johnson",
-    "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
-    "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
-    "born" : 1972,
-    "place of birth" : "Hayward, Callifornia",
-    "height_inches" : 77,
-    "author" : false,
-    "tv show" : null
-}]
+{ 
+    "dwayne" : {
+        "full name" : "Dwayne Johnson",
+        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+        "born" : 1972,
+        "place of birth" : "Hayward, Callifornia",
+        "height_inches" : 77,
+        "author" : false,
+        "tv show" : null
+    }
+    "jenna" : {
+        "full name" : "Jenna Fischer",
+        "other names" : "Pam",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Jenna_Fischer",
+        "born" : 1974,
+        "place of birth" : "Forte Wayne, Indiana",
+        "height_inches" : 66,
+        "author" : false,
+        "tv show" : "The Office"
+    },
+    "kevin": {
+    "name" : "Kevin Hart"
+    }
+}    
