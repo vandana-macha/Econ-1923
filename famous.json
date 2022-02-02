@@ -22,6 +22,10 @@
     "kevin": {
         "name" : "Kevin Hart",
         "author" : false,
+        "born" : 1979,
+        "place of birth" : "Philadelphia, Pennsylvania, U.S.",
+        "children" : 4, 
+        "oscars" : null
       }
     "adele" : {
         "name" : "Adele Laurie Blue Adkins",
