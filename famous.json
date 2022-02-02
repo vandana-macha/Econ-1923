@@ -24,4 +24,15 @@
         "author" : false,
         "tv show" : "Shark Tank"
       }
-}    
+    "adele" : {
+        "name" : "Adele Laurie Blue Adkins",
+        "stage name" : "Adele"
+        "born" : 1988,
+        "place of birth" : "Tottenham, London, United Kingdom"
+        "occupation" : "singer-songwriter",
+        "greatest hits" : ["Chasing Pavements", "Rolling in the Deep", "Hello", "Easy on Me"],
+        "record sales" : 120000000,
+        "dancer" : false
+    }
+   
+}  
