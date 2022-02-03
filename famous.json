@@ -8,7 +8,7 @@
         "height_inches" : 77,
         "author" : false,
         "tv show" : null
-    }
+    },
     "jenna" : {
         "full name" : "Jenna Fischer",
         "other names" : "Pam",
@@ -26,12 +26,12 @@
         "place of birth" : "Philadelphia, Pennsylvania, U.S.",
         "children" : 4, 
         "oscars" : null
-      }
+      },
     "adele" : {
         "name" : "Adele Laurie Blue Adkins",
-        "stage name" : "Adele"
+        "stage name" : "Adele",
         "born" : 1988,
-        "place of birth" : "Tottenham, London, United Kingdom"
+        "place of birth" : "Tottenham, London, United Kingdom",
         "occupation" : "singer-songwriter",
         "greatest hits" : ["Chasing Pavements", "Rolling in the Deep", "Hello", "Easy on Me"],
         "record sales" : 120000000,
@@ -41,11 +41,33 @@
         "name" : "Zendaya Maree Stoermer Coleman",
         "actress" : true,
         "age" : 25,
-        "place of birth" : "Oakland, California"
+        "place of birth" : "Oakland, California",
         "current show" : "Euphoria",
         "when started acting" : 14,
         "big break" : "Shake It Up"
-    }
+    },
         
+
+    "Danny": {
+        "full name" : "Daniel Michael DeVito Jr",
+        "other names" : "Frank",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Danny_DeVito",
+        "born" : 1944,
+        "place of birth" : "Neptune Township, New Jersey",
+        "height_inches" : 58,
+        "tv shows" : ["Always Sunny in Philadelphia", "Taxi"],  
+        "Movies": ["One Flew Over the Cuckoo's Nest", "Junior", "Twin"],
+        "children": 4
+    },
+	"chris": {
+		"full name": "Chris Evans",
+		"other names": ["Captain Acrylica", "Chris Jamal Evans", "Captain Little Ass"],
+		"wikipedia": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+		"born": 1981,
+		"place of birth": "Boston, Massachusetts",
+		"height_inches": 72,
+		"author": false,
+		"tv show": ["Opposite Sex", "Defending Jacob"]
+	}
    
 }  
