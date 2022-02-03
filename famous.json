@@ -37,6 +37,17 @@
         "record sales" : 120000000,
         "dancer" : false
     },
+   "zendaya" : {
+        "name" : "Zendaya Maree Stoermer Coleman",
+        "actress" : true,
+        "age" : 25,
+        "place of birth" : "Oakland, California",
+        "current show" : "Euphoria",
+        "when started acting" : 14,
+        "big break" : "Shake It Up"
+    },
+        
+
     "Danny": {
         "full name" : "Daniel Michael DeVito Jr",
         "other names" : "Frank",
