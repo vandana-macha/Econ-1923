@@ -36,6 +36,16 @@
         "greatest hits" : ["Chasing Pavements", "Rolling in the Deep", "Hello", "Easy on Me"],
         "record sales" : 120000000,
         "dancer" : false
-    }
+    },
+	"chris": {
+		"full name": "Chris Evans",
+		"other names": ["Captain Acrylica", "Chris Jamal Evans", "Captain Little Ass"],
+		"wikipedia": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+		"born": 1981,
+		"place of birth": "Boston, Massachusetts",
+		"height_inches": 72,
+		"author": false,
+		"tv show": ["Opposite Sex", "Defending Jacob"]
+	}
    
 }  
