@@ -37,5 +37,17 @@
         "record sales" : 120000000,
         "dancer" : false
     }
+    "Danny": {
+        "full name" : "Daniel Michael DeVito Jr",
+        "other names" : "Frank",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Danny_DeVito",
+        "born" : 1944,
+        "place of birth" : "Neptune Township, New Jersey",
+        "height_inches" : 58,
+        "tv shows" : "Always Sunny in Philadelphia", "Taxi",  
+        "Movies": "One Flew Over the Cuckoo's Nest", "Junior", "Twin",
+        "children": 4,
+        
+    }
    
 }  
