@@ -42,7 +42,7 @@
         "actress" : true,
         "age" : 25,
         "place of birth" : "Oakland, California"
-        "current show" "Euphoria",
+        "current show" : "Euphoria",
         "when started acting" : 14,
         "big break" : "Shake It Up"
     }
