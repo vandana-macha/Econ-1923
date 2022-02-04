@@ -23,5 +23,15 @@
         "name" : "Kevin Hart",
         "author" : false,
         "tv show": "Shark Tank"
-      }
+      },
+    "michael": {
+        "full name": "Michael Jordan",
+        "other names": "GOAT",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jordan",
+        "born": 1963,
+        "place of birth": "Brooklyn, NY",
+        "height_inches": 78,
+        "author": false,
+        "tv show": null
+    }      
 }    
