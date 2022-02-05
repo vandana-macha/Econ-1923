@@ -22,6 +22,7 @@
     "kevin": {
         "name" : "Kevin Hart",
         "author" : false,
+        "tv show": "Shark Tank",
         "born" : 1979,
         "place of birth" : "Philadelphia, Pennsylvania, U.S.",
         "children" : 4, 
@@ -69,6 +70,19 @@
 	"height_inches": 72,
 	"author": false,
 	"tv show": ["Opposite Sex", "Defending Jacob"]
-     }
+     },
+  
+  "michael": {
+        "full name": "Michael Jordan",
+        "other names": "GOAT",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jordan",
+        "born": 1963,
+        "place of birth": "Brooklyn, NY",
+        "height_inches": 78,
+        "teams": ["Chicago Bulls", "Washington Wizards"],
+        "author": false,
+        "tv show": null
+    } 
    
 }  
+
