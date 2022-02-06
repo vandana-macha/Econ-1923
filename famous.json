@@ -82,7 +82,17 @@
         "teams": ["Chicago Bulls", "Washington Wizards"],
         "author": false,
         "tv show": null
-    } 
+    } ,
+	
+   "Emma" : {
+        "full name" : "Emma Rose Roberts",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Emma_Roberts",
+        "born" : 1991,
+        "place of birth" : "Rhinebeck, New York",
+        "height_inches" : 62,
+        "author" : false,
+        "tv show" : ["American Horror Story", "Scream Queens"]
+    }   
    
 }  
 
