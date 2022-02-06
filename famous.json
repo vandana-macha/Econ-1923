@@ -83,14 +83,25 @@
         "author": false,
         "tv show": null
     },
-    "tom": {
-	"full name": "Thomas Stanley Holland",
-	"other name": "Tom Holland",
-	"wikipedia": "https://en.wikipedia.org/wiki/Tom_Holland",
-	"born": 1996,
-	"place of birth": "Kingston upon Thames, England",
-	"occupation": "Actor",
-	"movies": ["The Impossible", "Spider-man", "Avengers"]
-    }
+  
+  "tom": {
+	    "full name": "Thomas Stanley Holland",
+	    "other name": "Tom Holland",
+	    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Holland",
+	    "born": 1996,
+	    "place of birth": "Kingston upon Thames, England",
+	    "occupation": "Actor",
+	    "movies": ["The Impossible", "Spider-man", "Avengers"]
+    } ,
+	
+   "Emma" : {
+        "full name" : "Emma Rose Roberts",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Emma_Roberts",
+        "born" : 1991,
+        "place of birth" : "Rhinebeck, New York",
+        "height_inches" : 62,
+        "author" : false,
+        "tv show" : ["American Horror Story", "Scream Queens"]
+    }   
 }  
 
