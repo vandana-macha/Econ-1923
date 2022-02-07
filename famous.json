@@ -102,6 +102,18 @@
         "height_inches" : 62,
         "author" : false,
         "tv show" : ["American Horror Story", "Scream Queens"]
-    }   
+    } ,  
+	
+   "Adam" : {
+	"full name": "Adam Driver",
+	"other name": "Kylo Ren",
+	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver"
+	"born": 1983,
+	"place of birth": "San Diego, California",
+	"college_attended": "Julliard",
+	"tv show": "Girls",
+	"SNL_appearance": true
+}
 }  
+
 
